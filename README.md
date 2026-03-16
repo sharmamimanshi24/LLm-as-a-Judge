@@ -1,7 +1,7 @@
 ## Master Judge LLM
 
 This project creates a debate between two LLM models. Each model is given a fixed opinion about a topic. They argue with each other for a few turns.
-At the end, a **third Master LLM Iisacting as a judge and deciding the winner.**
+At the end, a **third Master LLM is acting as a judge and deciding the winner.**
 
 The goal is to understand how two models stick to their role and give their opinion and show their judgment and critical analysis skills as well.
 
